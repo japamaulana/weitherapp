@@ -1,4 +1,4 @@
-# Weather App - Android (Java + MVP + OpenWeather API)
+# Weather App - Android (Java + MVP + OpenWeather API) Android Studio
 Weather App adalah aplikasi Android yang dikembangkan menggunakan bahasa pemrograman Java, arsitektur MVP (Model-View-Presenter), dan terintegrasi dengan OpenWeather API untuk menampilkan informasi cuaca terkini berdasarkan kota yang dimasukkan oleh pengguna.
 
 Bahasa: Java
